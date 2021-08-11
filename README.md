@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Naman7877
 - 👀 I’m interested in lerning new skill 
-- 🌱 I’m currently learning app development and python 
+- 🌱 I’m currently learning app development and React 
 - 💞️ I’m looking to collaborate on app development python/java projects 
 - 📫 How to reach me ... namankhandelwal755@gmail.com 
 
